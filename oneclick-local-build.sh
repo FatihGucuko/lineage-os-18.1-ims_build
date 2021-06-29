@@ -18,11 +18,11 @@ aptitude install -y bc bison build-essential ccache curl \
     default-jre
 echo "===== CREATING BIN DIR ====="
 mkdir ~/bin
-echo "===== CREATING PROJECT DIR ====="
-mkdir lineage/
 echo "===== Instaling the repo command ====="
 curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
 chmod a+x ~/bin/repo
+echo "===== CREATING PROJECT DIR ====="
+mkdir lineage/
 echo "### BASIC CONFIGURATION DONE ###"
 echo "Setting up PATH"
 export PATH=~/bin:$PATH
