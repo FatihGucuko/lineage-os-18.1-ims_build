@@ -1,5 +1,6 @@
-# lineage-os-18.1-ims_build
+# Lineage OS 18.1 Builder for Sony Xperia Z5 Premum (satsuki)
 
+Works under linux system like Ubuntu.
 This is the right way to install and build Lineage OS 18.1 for the Sony Xperia Z5 Premium (satsuki)
 
 STEPS
